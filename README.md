@@ -7,12 +7,26 @@ With simple gesture controls, users can create a myriad of augmented reality eff
 ## Features
 Some features include...
 - 360 degree surround view
-- Mural
+![Panorama](assets/panorama.png)
+
+- Mural (style transfer)
+![Mural](assets/mural.png)
+
 - Cartoon filter
+![Cartoon](assets/cartoon.png)
+
 - Point art filter
-- Segmentation
+![Point Art](assets/point.png)
+
+- Segmentation (using PSPNet)
+![Environment segmentation](assets/environment_segmentation.png)
+![Selfie segmentation](assets/selfie_seg.png)
+
 - Drawing
+![Drawing](assets/draw.png)
+
 - Light tunnel
+![Tunnel](assets/tunnel.png)
 
 
 ## Setup

@@ -2,7 +2,8 @@
 
 
 ## About
-With simple gesture controls, users can create a myriad of augmented reality effects through their webcam. 
+With simple gesture controls, users can create a myriad of augmented reality effects through their webcam.
+
 [Project Report Paper:](https://github.com/12345Mandy/Gesture-Controlled-Special-Effects/blob/main/cv_final_project_report.pdf)
 
 ## Features
